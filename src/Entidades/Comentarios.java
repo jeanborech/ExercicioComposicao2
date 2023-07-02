@@ -18,7 +18,5 @@ public class Comentarios {
 	public void setTexto(String texto) {
 		this.texto = texto;
 	}
-	
-	
-	
+
 }
